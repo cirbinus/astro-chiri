@@ -47,7 +47,7 @@ export default defineConfig({
       }
     },
      server: {
-      allowedHosts: ['abya.top','astro-chiri.cirbinus.workers.dev']
+      allowedHosts: ['abya.dpdns.org']
     }
   },
   devToolbar: {
