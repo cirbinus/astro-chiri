@@ -45,6 +45,9 @@ export default defineConfig({
       alias: {
         '@': path.resolve('./src')
       }
+    },
+     server: {
+      allowedHosts: ['abya.top']
     }
   },
   devToolbar: {
